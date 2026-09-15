@@ -23,14 +23,14 @@ export const DEFAULT_BRAND_CONFIG: BrandConfig = {
   // ⚠️ CAMPOS A PERSONALIZAR CON TUS DATOS REALES ANTES DE PUBLICAR
   // Reemplaza los siguientes valores con tu información de contacto real:
   // =========================================================================
-  ownerName: '[TU_NOMBRE_O_TITULAR]',
-  ownerAlias: '[TU_ALIAS_O_USUARIO]',
-  contactEmail: '[TU_EMAIL_DE_CONTACTO@DOMINIO.COM]',
-  supportEmail: '[TU_EMAIL_DE_SOPORTE@DOMINIO.COM]',
-  securityEmail: '[TU_EMAIL_DE_SEGURIDAD@DOMINIO.COM]',
-  discordInviteUrl: 'https://discord.com/oauth2/authorize?client_id=[TU_CLIENT_ID]&permissions=1099511627776&scope=bot%20applications.commands',
-  discordSupportServerUrl: 'https://discord.gg/[TU_INVITACION_DE_DISCORD]',
-  githubRepoUrl: 'https://github.com/[TU_USUARIO]/scamlock-bot',
+  ownerName: 'ScamLock Team',
+  ownerAlias: 'Stevenyiyo',
+  contactEmail: 'Exclusive2149@gmail.com',
+  supportEmail: 'Exclusive2149@gmail.com',
+  securityEmail: 'Exclusive2149@gmail.com',
+  discordInviteUrl: 'https://discord.com/oauth2/authorize?client_id=1502348097370718390&permissions=1101659236358&integration_type=0&scope=bot+applications.commands',
+  discordSupportServerUrl: 'https://discord.gg/JV7PkGGpGB',
+  githubRepoUrl: 'https://github.com/Stevenyiyo1/scamlock',
   effectiveDate: '15 de septiembre de 2026',
   lastUpdatedDate: '15 de septiembre de 2026',
 };
